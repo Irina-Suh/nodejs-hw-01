@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "b8d3fec2-d936-45de-8e0f-f74b29db5434",
+    "name": "Mr. Eric Crist",
+    "phone": "949-465-3998 x24645",
+    "email": "Anna3@gmail.com",
+    "job": "Lead Response Analyst"
+  },
+  {
+    "id": "cc06d42b-a1be-4f90-b538-9240cddf2660",
+    "name": "Janis Kuhlman",
+    "phone": "1-630-759-5130",
+    "email": "Leta.Glover@gmail.com",
+    "job": "Future Quality Producer"
+  },
+  {
+    "id": "4fc21da5-c458-4fe2-b6aa-dc133845f52a",
+    "name": "Dr. Gabriel Denesik",
+    "phone": "227-338-3581 x367",
+    "email": "Alexie92@yahoo.com",
+    "job": "Internal Directives Supervisor"
+  },
+  {
+    "id": "0d001c48-16eb-4e49-b37e-254ac5d619bf",
+    "name": "Mrs. Meghan Jenkins",
+    "phone": "(894) 977-0574 x57368",
+    "email": "Otha_Heidenreich24@gmail.com",
+    "job": "Global Response Technician"
+  }
+]
